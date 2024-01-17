@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @titavatud31
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning machine learning, inference
+- 💞️ I’m looking to collaborate on open source machine learning projects
+- 📫 How to reach me titavatud31@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: dog petting
